@@ -57,14 +57,6 @@ I occasionally write about my projects and experiences. Check out my latest post
 - [**Blog Post Title**](https://medium.com/@[YourMediumHandle]/[Post-Slug])
 - [**Another Blog Post**](https://medium.com/@[YourMediumHandle]/[Post-Slug])
 
-## 📫 How to Reach Me
-
-Feel free to connect with me through these channels:
-
-- [Twitter](https://twitter.com/[YourTwitterHandle])
-- [LinkedIn](https://www.linkedin.com/in/[YourLinkedInProfile])
-- [Email](mailto:[YourEmail@example.com])
-
 ## 🎯 Goals
 
 - **Open Source Contributions:** I’m looking to contribute to more open-source projects and collaborate with the community.
