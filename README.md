@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I’m a passionate developer who enjoys exploring 
 
 I’m actively working on a few exciting projects. Here’s what’s keeping me busy:
 
-### 🔥 Current Project: [Project Name](https://github.com/noobpiratexd/[Project-Name])
-A [brief description of the project. What does it do? What technologies are used?]
+### 🔥 Current Project: [Project Name](https://github.com/noobpiratexd/filerenamerps)
+A File Renamer with Tic-Tac-Toe Game 🎮📁
 
-![Project Logo](https://via.placeholder.com/150x100?text=Project+Logo)
+![Project Logo](https://github.com/noobpiratexd/test/blob/main/images/showcase-300200.png)
 
 ## 🌟 Featured Projects
 
