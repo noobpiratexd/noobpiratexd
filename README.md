@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a passionate developer who enjoys exploring 
 
 I’m actively working on a few exciting projects. Here’s what’s keeping me busy:
 
-### 🔥 Current Project: [Project Name](https://github.com/noobpiratexd/filerenamerps)
+### 🔥 Current Project: [File Renamer with Tic-Tac-Toe Game 🎮📁](https://github.com/noobpiratexd/filerenamerps)
 A File Renamer with Tic-Tac-Toe Game 🎮📁
 
 ![Project Logo](https://github.com/noobpiratexd/test/blob/main/images/showcase-300200.png)
@@ -19,9 +19,8 @@ Here are some projects I’m really proud of:
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [**Project 1**](https://github.com/noobpiratexd/[Project1]) | A [brief description of Project 1]. | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-%2300BFFF?logo=react&logoColor=white) |
-| [**Project 2**](https://github.com/noobpiratexd/[Project2]) | A [brief description of Project 2]. | ![Python](https://img.shields.io/badge/Python-%2339C5C0?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white) |
-| [**Project 3**](https://github.com/noobpiratexd/[Project3]) | A [brief description of Project 3]. | ![Node.js](https://img.shields.io/badge/Node.js-%23008C8C?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23FF5722?logo=express&logoColor=white) |
+| [**Project 1**](https://github.com/noobpiratexd/filerenamerps[File Renamer with Tic-Tac-Toe Game 🎮📁]) | A [File Renamer with Tic-Tac-Toe Game 🎮📁]. | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-%2300BFFF?logo=react&logoColor=white) |
+| [**Project 2**](https://github.com/noobpiratexd/anonchat[Anon Chat]) | A [Web Based Anonnymous Chat]. | ![Python](https://img.shields.io/badge/Python-%2339C5C0?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white) |
 
 ## 🛠️ Technologies & Tools
 
