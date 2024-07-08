@@ -19,9 +19,8 @@ Here are some projects I’m really proud of:
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [**File Renamer with Tic-Tac-Toe Game 🎮📁**](https://github.com/noobpiratexd/filerenamerps) | A **PowerShell-based file renaming tool** with an embedded **Tic-Tac-Toe game** that showcases interactive features and utilities for managing files and enjoying a classic game experience. | ![PowerShell](https://img.shields.io/badge/PowerShell-%235A5B5C?logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-%2300BFFF?logo=react&logoColor=white) |
+| [**File Renamer with Tic-Tac-Toe Game 🎮📁**](https://github.com/noobpiratexd/filerenamerps) | A **PowerShell-based file renaming tool** with an embedded **Tic-Tac-Toe game** that showcases interactive features and utilities for managing files and enjoying a classic game experience. | ![PowerShell](https://img.shields.io/badge/PowerShell-%235A5B5C?logo=powershell&logoColor=white)
 | [**Anon Chat**](https://github.com/noobpiratexd/anonchat) | A **web-based anonymous chat application** that enables users to engage in conversations without revealing their identities. | ![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234479A1?logo=sqlite&logoColor=white) |
-| [**Project 3**](https://github.com/noobpiratexd/[Project3]) | A [brief description of Project 3]. | ![Node.js](https://img.shields.io/badge/Node.js-%23008C8C?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23FF5722?logo=express&logoColor=white) |
 
 ## 🛠️ Technologies & Tools
 
