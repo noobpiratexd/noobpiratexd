@@ -11,7 +11,7 @@ I’m actively working on a few exciting projects. Here’s what’s keeping me 
 ### 🔥 Current Project: [File Renamer with Tic-Tac-Toe Game 🎮📁](https://github.com/noobpiratexd/filerenamerps)
 A **PowerShell-based file renaming tool** with an embedded **Tic-Tac-Toe game** that showcases interactive features and utilities for managing files and enjoying a classic game experience.
 
-![File Renamer Logo](https://via.placeholder.com/150x100?text=File+Renamer+Logo)
+![File Renamer Logo](https://github.com/noobpiratexd/test/blob/main/images/showcase-300200.png)
 
 ## 🌟 Featured Projects
 
