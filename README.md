@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I’m a passionate developer who enjoys exploring 
 I’m actively working on a few exciting projects. Here’s what’s keeping me busy:
 
 ### 🔥 Current Project: [File Renamer with Tic-Tac-Toe Game 🎮📁](https://github.com/noobpiratexd/filerenamerps)
-A File Renamer with Tic-Tac-Toe Game 🎮📁
+A **PowerShell-based file renaming tool** with an embedded **Tic-Tac-Toe game** that showcases interactive features and utilities for managing files and enjoying a classic game experience.
 
-![Project Logo](https://github.com/noobpiratexd/test/blob/main/images/showcase-300200.png)
+![File Renamer Logo](https://via.placeholder.com/150x100?text=File+Renamer+Logo)
 
 ## 🌟 Featured Projects
 
@@ -19,8 +19,9 @@ Here are some projects I’m really proud of:
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [**Project 1**](https://github.com/noobpiratexd/filerenamerps[File Renamer with Tic-Tac-Toe Game 🎮📁]) | A [File Renamer with Tic-Tac-Toe Game 🎮📁]. | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-%2300BFFF?logo=react&logoColor=white) |
-| [**Project 2**](https://github.com/noobpiratexd/anonchat[Anon Chat]) | A [Web Based Anonnymous Chat]. | ![Python](https://img.shields.io/badge/Python-%2339C5C0?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white) |
+| [**File Renamer with Tic-Tac-Toe Game 🎮📁**](https://github.com/noobpiratexd/filerenamerps) | A **PowerShell-based file renaming tool** with an embedded **Tic-Tac-Toe game** that showcases interactive features and utilities for managing files and enjoying a classic game experience. | ![PowerShell](https://img.shields.io/badge/PowerShell-%235A5B5C?logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-%2300BFFF?logo=react&logoColor=white) |
+| [**Anon Chat**](https://github.com/noobpiratexd/anonchat) | A **web-based anonymous chat application** that enables users to engage in conversations without revealing their identities. | ![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234479A1?logo=sqlite&logoColor=white) |
+| [**Project 3**](https://github.com/noobpiratexd/[Project3]) | A [brief description of Project 3]. | ![Node.js](https://img.shields.io/badge/Node.js-%23008C8C?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23FF5722?logo=express&logoColor=white) |
 
 ## 🛠️ Technologies & Tools
 
@@ -28,7 +29,7 @@ Here are some of the tools and technologies I work with:
 
 ![Tech Stack](https://img.shields.io/badge/Languages-%23F7DF1E?logo=python&logoColor=white) ![Frameworks](https://img.shields.io/badge/Frameworks-%23386A7B?logo=django&logoColor=white) ![Tools](https://img.shields.io/badge/Tools-%231DA1F2?logo=github&logoColor=white)
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-%2339C5C0?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=white)
+- **Languages:** ![Python](https://img.shields.io/badge/Python-%2339C5C0?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white)
 - **Frameworks:** ![React](https://img.shields.io/badge/React-%2300BFFF?logo=react&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white)
 - **Tools:** ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%2300A5E3?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?logo=visual-studio-code&logoColor=white)
 
