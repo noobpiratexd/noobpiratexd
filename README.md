@@ -22,15 +22,17 @@ Here are some projects I’m really proud of:
 | [**File Renamer with Tic-Tac-Toe Game 🎮📁**](https://github.com/noobpiratexd/filerenamerps) | A **PowerShell-based file renaming tool** with an embedded **Tic-Tac-Toe game** that showcases interactive features and utilities for managing files and enjoying a classic game experience. | ![PowerShell](https://img.shields.io/badge/PowerShell-%235A5B5C?logo=powershell&logoColor=white)
 | [**Anon Chat**](https://github.com/noobpiratexd/anonchat) | A **web-based anonymous chat application** that enables users to engage in conversations without revealing their identities. | ![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234479A1?logo=sqlite&logoColor=white) |
 
-## 🛠️ Technologies & Tools
+### Languages
 
-Here are some of the tools and technologies I work with:
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235A5B5C?logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2339C5C0?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234479A1?logo=sqlite&logoColor=white)
 
-![Tech Stack](https://img.shields.io/badge/Languages-%23F7DF1E?logo=python&logoColor=white) ![Frameworks](https://img.shields.io/badge/Frameworks-%23386A7B?logo=django&logoColor=white) ![Tools](https://img.shields.io/badge/Tools-%231DA1F2?logo=github&logoColor=white)
+### Frameworks
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-%2339C5C0?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white)
-- **Frameworks:** ![React](https://img.shields.io/badge/React-%2300BFFF?logo=react&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white)
-- **Tools:** ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%2300A5E3?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?logo=visual-studio-code&logoColor=white)
+![React](https://img.shields.io/badge/React-%2300BFFF?logo=react&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?logo=laravel&logoColor=white) 
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%2300A5E3?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
 
 ## 📈 GitHub Stats
 
